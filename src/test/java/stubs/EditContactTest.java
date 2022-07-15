@@ -8,7 +8,7 @@ public class EditContactTest {
 		System.out.println("productEditTest executed");
 	}
 	@Test
-	public void deleteEditTest() {
+	public void ContactEditTest() {
 		System.out.println("deleteEditTest executed");
 	}
 }

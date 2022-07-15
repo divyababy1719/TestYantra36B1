@@ -8,7 +8,11 @@ public void createContactTest() {
 	System.out.println("createContactTest executed");
 }
 @Test
-public void createOrganizationTest() {
-	System.out.println("createOrganizationTest executed");
+public void ModifyContactTest() {
+	System.out.println("ModifyContactTest executed");
+}
+@Test
+public void DeleteContactTest() {
+	System.out.println("DeleteTest executed");
 }
 }
